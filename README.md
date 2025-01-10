@@ -1,5 +1,6 @@
 #![exploratory-data-analysis](https://github.com/user-attachments/assets/b7d54cf9-53e3-4602-a37d-c53dd54a540f)
- Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
 This repository contains a **Jupyter Notebook** for performing **Exploratory Data Analysis (EDA)** on a dataset. The goal of this analysis is to extract insights, identify patterns, and prepare the data for further modeling.
